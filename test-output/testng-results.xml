@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9536" started-at="2019-07-05T10:13:37Z" finished-at="2019-07-05T10:13:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9536" started-at="2019-07-05T10:13:37Z" finished-at="2019-07-05T10:13:47Z">
+      <class name="com.tests.TestNgClass">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.tests.TestNgClass@cb5822]" name="beforeTest" is-config="true" duration-ms="7490" started-at="2019-07-05T10:13:37Z" finished-at="2019-07-05T10:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:com.tests.TestNgClass@cb5822]" name="test1" duration-ms="764" started-at="2019-07-05T10:13:45Z" finished-at="2019-07-05T10:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:com.tests.TestNgClass@cb5822]" name="test2" duration-ms="1075" started-at="2019-07-05T10:13:45Z" finished-at="2019-07-05T10:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.tests.TestNgClass@cb5822]" name="afterTest" is-config="true" duration-ms="155" started-at="2019-07-05T10:13:46Z" finished-at="2019-07-05T10:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.tests.TestNgClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
